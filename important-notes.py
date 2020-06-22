@@ -26,8 +26,8 @@ print('the islem is {i:10.5}'.format(i=islem))
 """
 """
 # String bir ifadenin başına f getirilirse değişkenleri yerine koydurarak yazabiliriz.
-name = "Ahmet"
-surname = "Edizaslan"
+name = "Kamilcan"
+surname = "Sercan"
 examNotes = 80
 print(f"The student name is {name} {surname} and his exam note is {examNotes}")
 """
