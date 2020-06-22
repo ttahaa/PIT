@@ -1,4 +1,6 @@
 # Python-Information-Tank
 This repository was created to store information about python.
 
-Not defteri �zerinden ilk de�i�iklik !
+Not defteri üzerinden ilk değişiklik !
+
+Visual Studio Code üzerinden ikinci değişiklik!
