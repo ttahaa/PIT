@@ -67,10 +67,4 @@ result = explanation.isalpha()
 result = explanation.isdigit()
 # checks if characters are numbers.
 
-
-
-
-
-
-
 print(result)
