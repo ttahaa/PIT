@@ -8,7 +8,7 @@ name = "Taha"
 print(name[2])
 """
 """
-# print(len(blabla)) len metodu blabla değişkeninin içindeki ifadenin kaç karakterli olduğunu yazdırır.
+# print(len(balbla)) len metodu blabla değişkeninin içindeki ifadenin kaç karakterli olduğunu yazdırır.
 variables = "Taha Ozdere writing codes."
 print(len(variables))
 """
