@@ -21,7 +21,7 @@ print(long[2:15])
 print(long[5:30:3])
 """
 """
-# Eğer süslü parantez içerisinde : var yanında da örneğin 5:3 varsa sağ taraf virgülden sonraki satır sayısını, sol taraf ise toplam karakter sayısını yazdırır.
+# Eğer süslü parantez içerisinde : var yanında da örneğin 6:3 varsa sağ taraf virgülden sonraki satır sayısını, sol taraf ise toplam karakter sayısını yazdırır.
 islem = 200/700
 print('the islem is {i:10.5}'.format(i=islem))
 """
