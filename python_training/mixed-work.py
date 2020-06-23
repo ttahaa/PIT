@@ -115,4 +115,5 @@ message = message.center(50, "*")
 
 print(message)
 """
-
+message = "Hello There.My name is Hayley Crockery".split()
+print(message)
