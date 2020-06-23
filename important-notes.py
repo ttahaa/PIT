@@ -26,7 +26,7 @@ islem = 200/700
 print('the islem is {i:10.5}'.format(i=islem))
 """
 """
-# String bir ifadenin başına f getirilirse değişkenleri yerine koydurarak yazabiliriz.
+# String bir ifadenin başına f getirilirse değişkenleri yerine koydurarak yazdırabiliriz.
 name = "Kamilcan"
 surname = "Sercan"
 examNotes = 80
