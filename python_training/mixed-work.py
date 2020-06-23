@@ -90,7 +90,7 @@ age = 15
 
 # print(f"My name is {name} {surname} and I'm {age} years old.")
 """
-
+"""
 message = "Hello There. My name is Taha Özdere"
 
 # message = message.upper()
@@ -114,3 +114,5 @@ message = "Hello There. My name is Taha Özdere"
 message = message.center(50, "*")
 
 print(message)
+"""
+
