@@ -119,9 +119,26 @@ print(message)
 # message = "Hello There.My name is Hayley Crockery"
 # print(message[0])
 
-my_list = [1,2,3]
-my_list = ["iki", 8, False, 3.5]
-print(my_list)
+# my_list = [1,2,3]
+# my_list = ["iki", 8, False, 3.5]
+# print(my_list)
+
+list1 = ["one", "two", "there", "four"]
+list2 = ["five", "six", "seven", "eight"]
+
+numbers = list1 + list2
+print(numbers)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
