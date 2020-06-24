@@ -115,5 +115,18 @@ message = message.center(50, "*")
 
 print(message)
 """
-message = "Hello There.My name is Hayley Crockery".split()
-print(message)
+
+# message = "Hello There.My name is Hayley Crockery"
+# print(message[0])
+
+my_list = [1,2,3]
+my_list = ["iki", 8, False, 3.5]
+print(my_list)
+
+
+
+
+
+
+
+
