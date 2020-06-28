@@ -116,7 +116,7 @@ message = message.center(50, "*")
 print(message)
 """
 
-# message = "Hello There.My name is Hayley Crockery"
+message = "Hello There.My name is Hayley Crockery".split()
 # print(message[0])
 
 # my_list = [1,2,3]
@@ -128,18 +128,20 @@ list2 = ["five", "six", "seven", "eight"]
 
 numbers = list1 + list2
 print(numbers)
+print(len(numbers))
+print(message[0])
+print(numbers[2])
 
+userA = ["Taha", 15]
+userB = ["Sahin", 18]
 
+users = [userA, userB]
 
+print(userA)
+print(userB)
+print(users)
 
-
-
-
-
-
-
-
-
+print(users[0][0])
 
 
 
